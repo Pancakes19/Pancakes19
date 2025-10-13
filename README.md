@@ -1,12 +1,12 @@
-
-
-
-<img width="5824" height="3264" alt="1350183" src="https://github.com/user-attachments/assets/866dbf36-cb1e-4275-9765-a197eebe4bb5" />
+# Hello, geeks! 👋
 <p align="center">
   <a href="https://github.com/Pancakes19/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20GitHub;My%20name%20is%20Quinton%20Khuwiseb;Full-stack%20web%20and%20app%20developer;Student%20at%20the%20Namibian%20University%20of%20Science%20and%20Technology;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=900&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+<br/>
+<img width="5824" height="3264" alt="1350183" src="https://github.com/user-attachments/assets/866dbf36-cb1e-4275-9765-a197eebe4bb5" />
+<br/>
 
 
 <!-- Social icons section -->
