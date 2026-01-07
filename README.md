@@ -6,8 +6,9 @@
   </a>
 </p>
 <br/>
-<img width="5824" height="3264" alt="1350183" src="https://github.com/user-attachments/assets/866dbf36-cb1e-4275-9765-a197eebe4bb5" />
+<img width="3840" height="2160" alt="give-me-a-break-3840x2160-13636" src="https://github.com/user-attachments/assets/125a4e55-f293-4428-a863-07f268590585" />
 <br/>
+
 <br/>
 
 ```javascript
