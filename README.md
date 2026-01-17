@@ -12,11 +12,10 @@
 <br/>
 
 ```javascript
-const quinton = {
+const Quinton = {
   pronouns: ["he", "him"],
   code: ["JavaScript", "HTML", "CSS", "Python", "Java"],
-  tools: ["React", "Tailwind CSS", "Git", "Docker", "MySQL"],
-  architecture: ["Single Page Application (SPA)", "Component-based design", "Full-Stack web architecture"],
+  tools: ["React", "Spring boot", "Git", "Docker", "MySQL"],
 };
 
 ```
