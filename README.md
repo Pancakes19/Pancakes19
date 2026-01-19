@@ -15,7 +15,7 @@
 const Quinton = {
   pronouns: ["he", "him"],
   code: ["JavaScript", "HTML", "CSS", "Python", "Java"],
-  tools: ["React", "Spring boot", "Git", "Docker", "MySQL"],
+  tools: ["Git","GitHub","NetBeans","IntelliJ IDEA","Thonny","Pandas","Matplotlib","SQL Server"],
 };
 
 ```
